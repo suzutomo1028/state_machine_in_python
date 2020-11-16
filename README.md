@@ -1,0 +1,3 @@
+# state_machine_in_python
+
+Pythonでステートマシンを実装する演習
